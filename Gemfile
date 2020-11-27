@@ -50,3 +50,6 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+gem 'solidus', github: 'spaghetticode/solidus', branch: 'frontend_orders_history_page'
+gem 'solidus_auth_devise', github: 'spaghetticode/solidus_auth_devise', branch: 'spaghetticode/remove-account-page'

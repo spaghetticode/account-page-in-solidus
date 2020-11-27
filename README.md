@@ -1,24 +1,8 @@
-# README
+# Solidus demo with account page from  Solidus frontend
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The bundled version of Solidus includes the account page that was moved from `solidus_auth_devise`.
+The bundled version of `solidus_auth_devise` can be used with a Solidus version that includes the
+account page (the one bundled in this app) or with a Solidus version that does not include it (
+this will happen in another demo app).
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This app can be used to experiment and verify if everything works as expected.
